@@ -1,4 +1,4 @@
- Ex. No: 18B - Kruskal's Minimum Spanning Tree (MST) Algorithm
+# Ex. No: 18B - Kruskal's Minimum Spanning Tree (MST) Algorithm
 
 ### Name-MITHUNRAJEEV V
 ### Reg No-212223060159
